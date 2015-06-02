@@ -23,6 +23,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 = آی‌دی یا شناسه ویدئو = 
 * به‌عنوان مثال شناسه ویدئوی http://www.aparat.com/v/iybdS عبارت است از : iybdS
 
+= از ما حمایت کنید : =
+[ * * * * * ](https://wordpress.org/support/view/plugin-reviews/aparat?rate=5#postform/)
+
+= با ما در ارتباط باشید : =
+* http://hamyarwp.com/shortcode-aparat-in-wordpress/
+* info@ideyeno.ir 
+
 == Installation ==
 
 1. به برگه 'افزونه‌ها' در مدیریت وردپرس رجوع کرده و بر روی 'افزودن' کلیک کنید
