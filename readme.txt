@@ -33,6 +33,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 = 1.3 =
 * گرفتن شناسه ویدئو از طریق گزینه آپارت در ادیتور
+
+= 1.2.2 =
 * رفع مشکل آدرس دهی آیکون آپارات
 
 = 1.2 =
@@ -44,3 +46,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 = 1.0 =
 * نسخه پایه
+
+== Screenshots ==
+
+1. افزودن شورت کد آپارات در 3 مرحله ساده
