@@ -4,7 +4,7 @@
 		Plugin Name: Aparat
 		Plugin URI: https://wordpress.org/plugins/aparat/
 		Description: نمایش ویدئوی آپارات در مطالب توسط شورت‌کد ...
-		Version: 1.2.2
+		Version: 1.3
 		Author: Nima Saberi
 		Author URI: http://ideyeno.ir
 		
