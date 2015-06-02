@@ -14,11 +14,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 با فعالسازی این افزونه می‌توانید به سادگی ویدئوی آپارات مورد نظر خود را در مطلب ارسالی نمایش دهید ...
 
-* شورت‌‌کد :
+* شورت‌‌کد پیشفرض :
 `[aparat id="c4VeZ"]`
 
 * شورت‌کد با امکان شخصی‌سازی :
-`[aparat id="c4VeZ" width="500" height="500" style="margin: 15px; padding: 7px"]`
+`[aparat id="c4VeZ" width="600" height="450" style="margin: 15px; padding: 7px"]`
 
 == Installation ==
 
@@ -27,6 +27,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. افزونه ذکر شده را نصب کرده و توضیحات صفحه‌ی مدیریت آن را مطالعه کنید
 
 == Changelog ==
+
+= 1.1 =
+* پشتیبانی از حالت ریسپانسیو / طول 100 درصد
+* حذف بوردر آی‌فریم ویدئو
 
 = 1.0 =
 * نسخه پایه
