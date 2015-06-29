@@ -4,7 +4,7 @@ Donate link: http://ideyeno.ir
 Tags: aparat, video, clip, آپارات, ویدئو
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.5
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
